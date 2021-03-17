@@ -1,4 +1,4 @@
-### Hi there 👋✈️
+### Hi there! 👋
 
 - I am an aerospace engineer and researcher at [Bauhaus Luftfahrt e.V.](www.bauhaus-luftfahrt.net) in Munich, Germany. 
 - My research areas are the aircraft cabin and fuselage as well as passenger and ground operation processes. 
